@@ -2,6 +2,8 @@
 
 Flutter implementation of converting an image to an animated mesh gradient.
 
+https://github.com/sbis04/image_mesh_gradient/assets/43280874/c8064e1e-399b-46e1-8c26-d3de04065f09
+
 ## License
 
 Copyright (c) 2024 Souvik Biswas
