@@ -45,5 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	<key>NSCameraUsageDescription</key>
+	<string>Used to capture picture using devide camera</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Used to select image from device gallery</string>
 </dict>
 </plist>
